@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[saz:home|Door43 (saz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-saz|d43-saz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-saz/archive/master.zip|d43-saz.zip]]
+
+**Recent Changes**
+{{changes>ns = saz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/saz|Ethnologue data]]
+
